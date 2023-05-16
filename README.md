@@ -57,4 +57,4 @@ To get started with the project, follow these steps:
 
 *Note: Make sure to run each command in a separate terminal to keep the services running simultaneously.*
 
-*Remember to replace [repository URL] with the actual URL of your repository.*
+
